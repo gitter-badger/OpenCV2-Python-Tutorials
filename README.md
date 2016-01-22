@@ -1,6 +1,8 @@
 OpenCV2-Python-Guide
 ====================
 
+[![Join the chat at https://gitter.im/simondaviddrew/OpenCV2-Python-Tutorials](https://badges.gitter.im/simondaviddrew/OpenCV2-Python-Tutorials.svg)](https://gitter.im/simondaviddrew/OpenCV2-Python-Tutorials?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This repo contains tutorials on OpenCV-Python library using new cv2 interface
 
 **IMP - This tutorial is meant for OpenCV 3x version. Not OpenCV 2x**
